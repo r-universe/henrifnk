@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FuzzyDBScan"]
+	path = FuzzyDBScan
+	url = https://github.com/henrifnk/fuzzydbscan
+	shallow = true
+	registered = true
